@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Yacine Benzerga]
+Copyright (c) 2026 Yacine Benzerga
 
 All rights reserved.
 
