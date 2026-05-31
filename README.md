@@ -5,4 +5,4 @@ In this notebook we attempt to combine XGBoost powerful non linear decision boun
 
 ## Important Note
 
-Github had recent rendering issues on jupyter notebooks, if you cannot see the notebook properly, there's a rendered markdown version in the same location
+Github had recent rendering issues on jupyter notebooks, if you cannot see the [notebook](/Hybrid%20GNN%20XGBoost%20Approach%20for%20Amazon%20Products%20Recommendation%20-%20Final.ipynb) properly, there's a rendered [markdown version](/Hybrid%20GNN%20XGBoost%20Approach%20for%20Amazon%20Products%20Recommendation%20-%20Final.md) in the same location
